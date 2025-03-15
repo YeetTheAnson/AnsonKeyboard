@@ -76,7 +76,7 @@ For the final design, I came up a solution. Instead of mounting the USB C port d
 
 # Pictures
 ## Schematic
-<img src=assets/schematic.png alt="schematic" width="500"/>
+<img src=assets/schematic.png alt="schematic" width="750"/>
 
 ## PCB
 <img src=assets/pcbpreview.png alt="pcbpreview" width="500"/>
