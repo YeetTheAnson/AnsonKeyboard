@@ -79,37 +79,36 @@ For the final design, I came up a solution. Instead of mounting the USB C port d
 <img src=assets/schematic.png alt="schematic" width="1250"/>
 
 ## PCB
-<img src=assets/pcbpreview.png alt="pcbpreview" width="500"/>
-<img src=assets/pcb3dtop.png alt="pcb3dtop" width="500"/>
-<img src=assets/pcb3dbottom.png alt="pcb3dbottom" width="500"/>
+<img src=assets/pcbpreview.png alt="pcbpreview" width="900"/>
+<img src=assets/pcb3dtop.png alt="pcb3dtop" width="900"/>
+<img src=assets/pcb3dbottom.png alt="pcb3dbottom" width="900"/>
 
 
 ## Assembled Keyboard
-<img src=assets/assembled1.png alt="assembled1" width="500"/>
-<img src=assets/assembled2.png alt="assembled2" width="500"/>
-<img src=assets/assembled3.png alt="assembled3" width="500"/>
-<img src=assets/assembled4.png alt="assembled4" width="500"/>
-<img src=assets/assembled5.png alt="assembled5" width="500"/>
+<img src=assets/assembled1.png alt="assembled1" width="900"/>
+<img src=assets/assembled2.png alt="assembled2" width="900"/>
+<img src=assets/assembled3.png alt="assembled3" width="900"/>
+<img src=assets/assembled4.png alt="assembled4" width="900"/>
+<img src=assets/assembled5.png alt="assembled5" width="900"/>
 
 
 ## Case Stand (CaseStand.step)
-<img src=assets/casestand1.png alt="casestand1" width="500"/>
-<img src=assets/casestand2.png alt="casestand2" width="500"/>
-<img src=assets/casestand3.png alt="casestand3" width="500"/>
+<img src=assets/casestand1.png alt="casestand1" width="900"/>
+<img src=assets/casestand2.png alt="casestand2" width="900"/>
+<img src=assets/casestand3.png alt="casestand3" width="900"/>
 
 
 ## Lower Case (LowerCase.step)
-<img src=assets/lowercase1.png alt="lowercase1" width="500"/>
-<img src=assets/lowercase2.png alt="lowercase2" width="500"/>
-
+<img src=assets/lowercase1.png alt="lowercase1" width="900"/>
+<img src=assets/lowercase2.png alt="lowercase2" width="900"/>
 
 ## Plate (Plate.step)
-<img src=assets/plate1.png alt="plate1" width="500"/>
+<img src=assets/plate1.png alt="plate1" width="900"/>
 
 
 ## Top Case (TopCase.step)
-<img src=assets/topcase1.png alt="topcase1" width="500"/>
-<img src=assets/topcase2.png alt="topcase2" width="500"/>
+<img src=assets/topcase1.png alt="topcase1" width="900"/>
+<img src=assets/topcase2.png alt="topcase2" width="900"/>
 
 
 
@@ -164,13 +163,13 @@ For the final design, I came up a solution. Instead of mounting the USB C port d
 
 **Special Printing Request:**
 - The Top Case (TopCase.step) should be with the flat side facing down
-<img src="assets/printrequest1.png" alt="printrequest1" width="500"/>
+<img src="assets/printrequest1.png" alt="printrequest1" width="900"/>
 
 - The Lower Case (LowerCase.step) should be printed **with** supports due to steep overhangs
-<img src="assets/printrequest2.png" alt="printrequest2" width="500"/>
+<img src="assets/printrequest2.png" alt="printrequest2" width="900"/>
 
 - The Case Stand (CaseStand.step) should be printed **with** supports due to steep overhangs
-<img src="assets/printrequest3.png" alt="printrequest3" width="500"/>
+<img src="assets/printrequest3.png" alt="printrequest3" width="900"/>
 
 ---
 
